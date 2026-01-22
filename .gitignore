@@ -1,5 +1,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/First 2d Game/[Ll]ibrary/
+/First 2d Game/[Tt]emp/
+/First 2d Game/[Ll]ogs/
+/First 2d Game/[Oo]bj/
+/First 2d Game/[Bb]uild/
+/First 2d Game/[Bb]uilds/
+/First 2d Game/[Uu]ser[Ss]ettings/
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/

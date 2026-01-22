@@ -615,9 +615,9 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -60132
+      - m_Data: -60138
       - m_Data: -59276
-      - m_Data: 75756
+      - m_Data: 75760
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -801,8 +801,8 @@ MonoBehaviour:
     - m_Data: 69028
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Game
-      m_OriginalName: Game
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -810,10 +810,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 75026
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 2}
@@ -1558,7 +1558,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.57685035, y: -0.75084573, z: 0.015310107}
     speed: 2
-    m_Value: {x: 0.5751111, y: -0.7483521, z: 0.015386592}
+    m_Value: {x: 0.57685035, y: -0.75084573, z: 0.015310107}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1610,7 +1610,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10.205613
     speed: 2
-    m_Value: 10.197965
+    m_Value: 10.205613
   m_Ortho:
     m_Target: 1
     speed: 2
