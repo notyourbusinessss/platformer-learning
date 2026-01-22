@@ -1,5 +1,6 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+.DS_Stroe
 /First 2d Game/[Ll]ibrary/
 /First 2d Game/[Tt]emp/
 /First 2d Game/[Ll]ogs/
@@ -8,14 +9,14 @@
 /First 2d Game/[Bb]uilds/
 /First 2d Game/[Uu]ser[Ss]ettings/
 
-.utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/First 2d Game/.utmp/
+/First 2d Game/[Ll]ibrary/
+/First 2d Game/[Tt]emp/
+/First 2d Game/[Oo]bj/
+/First 2d Game/[Bb]uild/
+/First 2d Game/[Bb]uilds/
+/First 2d Game/[Ll]ogs/
+/First 2d Game/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
